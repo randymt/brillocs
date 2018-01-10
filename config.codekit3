@@ -342,6 +342,28 @@
 		"oAP": "\/assets\/fonts\/Pe-icon-7-stroke.woff",
 		"oF": 0
 		},
+	"\/assets\/img\/brillo_logo.png": {
+		"ft": 32768,
+		"iS": 12896,
+		"oA": 0,
+		"oAP": "\/assets\/img\/brillo_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/footer_brillo_logo.png": {
+		"ft": 32768,
+		"iS": 13362,
+		"oA": 0,
+		"oAP": "\/assets\/img\/footer_brillo_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/assets\/img\/img-client-01.png": {
 		"ft": 32768,
 		"iS": 4200,
