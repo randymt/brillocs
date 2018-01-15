@@ -364,92 +364,14 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/img-client-01.png": {
-		"ft": 32768,
-		"iS": 4200,
+	"\/assets\/img\/header-bg.jpg": {
+		"ft": 16384,
+		"iS": 167805,
 		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-01.png",
+		"oAP": "\/assets\/img\/header-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-client-02.png": {
-		"ft": 32768,
-		"iS": 3130,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-02.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-client-03.png": {
-		"ft": 32768,
-		"iS": 4360,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-03.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-client-04.png": {
-		"ft": 32768,
-		"iS": 3101,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-04.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-client-05.png": {
-		"ft": 32768,
-		"iS": 3795,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-05.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-client-06.png": {
-		"ft": 32768,
-		"iS": 3449,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-06.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-client-07.png": {
-		"ft": 32768,
-		"iS": 1617,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-07.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-client-08.png": {
-		"ft": 32768,
-		"iS": 5634,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-client-08.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/img-content-01.jpg": {
@@ -480,38 +402,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/img-header.jpg": {
-		"ft": 16384,
-		"iS": 178978,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-header.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/img-logo-footer.png": {
-		"ft": 32768,
-		"iS": 8818,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-logo-footer.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/assets\/img\/img-logo.png": {
-		"ft": 32768,
-		"iS": 9539,
-		"oA": 0,
-		"oAP": "\/assets\/img\/img-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/assets\/img\/img-service-01.jpg": {
@@ -670,6 +560,36 @@
 		"iS": 749796,
 		"oA": 0,
 		"oAP": "\/assets\/img\/nastuh-abootalebi-284882.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/service-carpentry.jpg": {
+		"ft": 16384,
+		"iS": 61013,
+		"oA": 0,
+		"oAP": "\/assets\/img\/service-carpentry.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/service-cleaning-collage.jpg": {
+		"ft": 16384,
+		"iS": 218868,
+		"oA": 0,
+		"oAP": "\/assets\/img\/service-cleaning-collage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/service-cleaning.jpg": {
+		"ft": 16384,
+		"iS": 162404,
+		"oA": 0,
+		"oAP": "\/assets\/img\/service-cleaning.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -844,6 +764,13 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/code from old.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/code from old.html",
+		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
