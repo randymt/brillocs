@@ -516,7 +516,7 @@ hr{ border-top-color: darken(@white, 3%); }
 			&:hover,
 			&:focus{
 				color: @white;
-				background-color: @black;
+				background-color: @theme-color;
 				.transition(all 0.1s linear);
 			}
 		}
@@ -531,34 +531,9 @@ hr{ border-top-color: darken(@white, 3%); }
 				&,
 				&:hover{ background-color: @theme-color }
 				color: @white;
-				&.icon-twitter{
-					background-color: @twitter;
-					&:hover{ background-color: darken(@twitter, 5%); }
-				}
 				&.icon-facebook{
 					background-color: @facebook;
-					&:hover{ background-color: darken(@facebook, 5%); }
-				}
-				&.icon-youtube,
-				&.icon-google-plus{
-					background-color: @google;
-					&:hover{ background-color: darken(@google, 5%); }
-				}
-				&.icon-pinterest{
-					background-color: @dark-red;
-					&:hover{ background-color: darken(@dark-red, 5%); }
-				}
-				&.icon-instagram{
-					background-color: @instagram;
-					&:hover{ background-color: darken(@instagram, 5%); }
-				}
-				&.icon-dribbble{
-					background-color: @pink;
-					&:hover{ background-color: darken(@pink, 5%); }
-				}
-				&.icon-linkedin{
-					background-color: @skyblue;
-					&:hover{ background-color: darken(@skyblue, 5%); }
+					&:hover{ background-color: @theme-color; }
 				}
 			}
 		}
@@ -1114,6 +1089,11 @@ hr{ border-top-color: darken(@white, 3%); }
 	[3.13. TESTIMONY CAROUSEL]
 	===========================
 */
+
+.spacer {
+	height: 144px;
+	display: block;
+}
 #testimony,
 .testimony{
 	&.wrapper-bg-image{ margin-bottom: 60px; }
@@ -1149,9 +1129,9 @@ hr{ border-top-color: darken(@white, 3%); }
 		.testimony-item-image{
 			display: block;
 			margin: 0 auto;
-			width: 90px;
-			height: 90px;
-			.border-radius(45px);
+			width: 150px;
+			height: 150px;
+			.border-radius(90px);
 		}
 		.testimony-item-source{
 			position: relative;
@@ -2204,7 +2184,7 @@ hr{ border-top-color: darken(@white, 3%); }
 			}
 		}
 		.menu-toggle{
-			color: @text-color;
+			color: @theme-color;
 		}
 	}
 
@@ -2282,7 +2262,7 @@ hr{ border-top-color: darken(@white, 3%); }
 		}
 		.menu-toggle{
 			margin-top: -45px;
-			color: @white;
+			color: @theme-color;
 		}
 
 		@media screen and (max-width: 37.5em){
@@ -2530,7 +2510,7 @@ hr{ border-top-color: darken(@white, 3%); }
 			line-height: 18px;
 			padding: 12px 15px 10px;
 			border: none;
-			color: @white;
+			color: @theme-color;
 			background-color: transparent;
 			&:focus{ outline: none; }
 		}
@@ -3220,7 +3200,7 @@ object {
 */
 .copyright{
 	width: 100%;
-	padding: 30px 0;
+	padding: 20px 0;
 	font-size: 10px;
 	line-height: 18px;
 	letter-spacing: 1px;
@@ -3229,6 +3209,7 @@ object {
 	background-color: darken(@black, 1%);
 	&.bg-black{ background-color: darken(@black, 10%); }
 	&.bg-white{ background-color: @white; }
+	.highlightcr { color: @theme-color}
 	.copy-left{
 		padding-top: 20px;
 	}

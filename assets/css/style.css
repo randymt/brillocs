@@ -854,7 +854,7 @@ hr {
 .social-icon > li > a:hover,
 .social-icon > li > a:focus {
   color: #fff;
-  background-color: #2b2b2b;
+  background-color: #446ACD;
   -webkit-transition: all 0.1s linear;
   -moz-transition: all 0.1s linear;
   -ms-transition: all 0.1s linear;
@@ -871,49 +871,11 @@ hr {
 .social-icon.social-icon-color > li > a:hover {
   background-color: #446ACD;
 }
-.social-icon.social-icon-color > li > a.icon-twitter {
-  background-color: #4099ff;
-}
-.social-icon.social-icon-color > li > a.icon-twitter:hover {
-  background-color: #268bff;
-}
 .social-icon.social-icon-color > li > a.icon-facebook {
   background-color: #4467ad;
 }
 .social-icon.social-icon-color > li > a.icon-facebook:hover {
-  background-color: #3d5c9b;
-}
-.social-icon.social-icon-color > li > a.icon-youtube,
-.social-icon.social-icon-color > li > a.icon-google-plus {
-  background-color: #ff4b4b;
-}
-.social-icon.social-icon-color > li > a.icon-youtube:hover,
-.social-icon.social-icon-color > li > a.icon-google-plus:hover {
-  background-color: #ff3131;
-}
-.social-icon.social-icon-color > li > a.icon-pinterest {
-  background-color: #c0392b;
-}
-.social-icon.social-icon-color > li > a.icon-pinterest:hover {
-  background-color: #ab3326;
-}
-.social-icon.social-icon-color > li > a.icon-instagram {
-  background-color: #6e99b2;
-}
-.social-icon.social-icon-color > li > a.icon-instagram:hover {
-  background-color: #5d8da9;
-}
-.social-icon.social-icon-color > li > a.icon-dribbble {
-  background-color: #f47cc3;
-}
-.social-icon.social-icon-color > li > a.icon-dribbble:hover {
-  background-color: #f264b8;
-}
-.social-icon.social-icon-color > li > a.icon-linkedin {
-  background-color: #5bc0de;
-}
-.social-icon.social-icon-color > li > a.icon-linkedin:hover {
-  background-color: #46b8da;
+  background-color: #446ACD;
 }
 /*
 	===========================
@@ -1472,6 +1434,10 @@ hr {
 	[3.13. TESTIMONY CAROUSEL]
 	===========================
 */
+.spacer {
+  height: 144px;
+  display: block;
+}
 #testimony.wrapper-bg-image,
 .testimony.wrapper-bg-image {
   margin-bottom: 60px;
@@ -1523,13 +1489,13 @@ hr {
 .testimony .carousel-inner .testimony-item-image {
   display: block;
   margin: 0 auto;
-  width: 90px;
-  height: 90px;
-  -webkit-border-radius: 45px;
-  -moz-border-radius: 45px;
-  -ms-border-radius: 45px;
-  -o-border-radius: 45px;
-  border-radius: 45px;
+  width: 150px;
+  height: 150px;
+  -webkit-border-radius: 90px;
+  -moz-border-radius: 90px;
+  -ms-border-radius: 90px;
+  -o-border-radius: 90px;
+  border-radius: 90px;
 }
 #testimony .carousel-inner .testimony-item-source,
 .testimony .carousel-inner .testimony-item-source {
@@ -2662,7 +2628,7 @@ hr {
   margin-bottom: 5px;
 }
 .site-header.header-light .menu-toggle {
-  color: #2b2b2b;
+  color: #446ACD;
 }
 .site-header.header-dark {
   background-color: #fff;
@@ -2734,7 +2700,7 @@ hr {
 }
 .site-header.header-dark .menu-toggle {
   margin-top: -45px;
-  color: #fff;
+  color: #446ACD;
 }
 @media screen and (max-width: 37.5em) {
   .site-header.header-dark ul {
@@ -2973,7 +2939,7 @@ hr {
     line-height: 18px;
     padding: 12px 15px 10px;
     border: none;
-    color: #fff;
+    color: #446ACD;
     background-color: transparent;
   }
   .main-navigation .menu-toggle:focus {
@@ -3695,7 +3661,7 @@ object {
 */
 .copyright {
   width: 100%;
-  padding: 30px 0;
+  padding: 20px 0;
   font-size: 10px;
   line-height: 18px;
   letter-spacing: 1px;
@@ -3708,6 +3674,9 @@ object {
 }
 .copyright.bg-white {
   background-color: #fff;
+}
+.copyright .highlightcr {
+  color: #446ACD;
 }
 .copyright .copy-left {
   padding-top: 20px;
