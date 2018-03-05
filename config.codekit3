@@ -364,11 +364,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/assets\/img\/header-bg.jpg": {
+	"\/assets\/img\/header.jpg": {
 		"ft": 16384,
 		"iS": 167805,
 		"oA": 0,
-		"oAP": "\/assets\/img\/header-bg.jpg",
+		"oAP": "\/assets\/img\/header.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -381,7 +381,7 @@
 		"oAP": "\/assets\/img\/img-imageblock_01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/img-imageblock_02.jpg": {
@@ -391,7 +391,7 @@
 		"oAP": "\/assets\/img\/img-imageblock_02.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/img-imageblock_03.jpg": {
@@ -401,10 +401,10 @@
 		"oAP": "\/assets\/img\/img-imageblock_03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/assets\/img\/IMG-owner-Monica.jpg": {
+	"\/assets\/img\/img-owner-monica.jpg": {
 		"ft": 16384,
 		"iS": 6617,
 		"oA": 0,
@@ -476,7 +476,7 @@
 		},
 	"\/assets\/img\/service-carpentry.jpg": {
 		"ft": 16384,
-		"iS": 61013,
+		"iS": 79748,
 		"oA": 0,
 		"oAP": "\/assets\/img\/service-carpentry.jpg",
 		"oF": 0,
@@ -502,6 +502,26 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/service-concrete-collage.jpg": {
+		"ft": 16384,
+		"iS": 222946,
+		"oA": 0,
+		"oAP": "\/assets\/img\/service-concrete-collage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/service-concrete.jpg": {
+		"ft": 16384,
+		"iS": 88337,
+		"oA": 0,
+		"oAP": "\/assets\/img\/service-concrete.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/js\/navigation.js": {

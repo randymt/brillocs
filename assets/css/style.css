@@ -2551,7 +2551,7 @@ hr {
 .site-header {
   z-index: 24;
   min-height: 63px;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.9);
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -ms-transition: all 0.2s linear;
@@ -3295,6 +3295,7 @@ hr {
 	===========================
 */
 .header {
+  background: url(../img/header.jpg);
   width: 100%;
   min-height: 600px;
   height: auto;
