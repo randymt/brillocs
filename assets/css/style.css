@@ -2510,6 +2510,9 @@ hr {
     text-align: right;
   }
 }
+.topbar-alt + .site-header-affix-wrapper {
+  height: 0px !important;
+}
 .topbar-alt + .site-header-affix-wrapper .site-header {
   position: relative;
 }
@@ -2550,7 +2553,6 @@ hr {
 }
 .site-header {
   z-index: 24;
-  min-height: 63px;
   background-color: rgba(255, 255, 255, 0.9);
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
@@ -2643,25 +2645,25 @@ hr {
 }
 .site-header.header-dark ul ul:hover > a,
 .site-header.header-dark ul ul .focus > a {
-  color: #fff;
+  color: #446ACD;
 }
 .site-header.header-dark ul ul li.current_page_item > a,
 .site-header.header-dark ul ul li.current-menu-item > a,
 .site-header.header-dark ul ul li.current_page_ancestor > a,
 .site-header.header-dark ul ul li.current-menu-ancestor > a {
-  color: #fff;
+  color: #446ACD;
   background-color: #fff;
 }
 .site-header.header-dark ul ul a {
-  color: #fff;
+  color: #446ACD;
 }
 .site-header.header-dark ul ul a:hover,
 .site-header.header-dark ul ul a.focus {
-  color: #fff;
+  color: #446ACD;
 }
 .site-header.header-dark li:hover > a,
 .site-header.header-dark li.focus > a {
-  color: #fff;
+  color: #446ACD;
 }
 .site-header.header-dark li.menu-item-has-children::after {
   content: '+';
@@ -2670,7 +2672,7 @@ hr {
 .site-header.header-dark li.menu-item-has-children:hover::after,
 .site-header.header-dark li.menu-item-has-children:focus::after {
   content: '-';
-  color: #fff;
+  color: #446ACD;
 }
 .site-header.header-dark a {
   color: #9395a5;
@@ -2679,7 +2681,7 @@ hr {
 .site-header.header-dark .current-menu-item > a,
 .site-header.header-dark .current_page_ancestor > a,
 .site-header.header-dark .current-menu-ancestor > a {
-  color: #fff;
+  color: #446ACD;
 }
 .site-header.header-dark .site-branding .site-title {
   padding-top: 13px;
@@ -2687,7 +2689,7 @@ hr {
   line-height: 28px;
 }
 .site-header.header-dark .site-branding .site-title a {
-  color: #fff;
+  color: #446ACD;
 }
 .site-header.header-dark .site-branding .site-title a:hover,
 .site-header.header-dark .site-branding .site-title a:focus {
@@ -2699,12 +2701,11 @@ hr {
   margin-bottom: 0;
 }
 .site-header.header-dark .menu-toggle {
-  margin-top: -45px;
   color: #446ACD;
 }
 @media screen and (max-width: 37.5em) {
   .site-header.header-dark ul {
-    background-color: #121212;
+    background-color: #fff;
   }
   .site-header.header-dark ul ul {
     background-color: transparent;
@@ -2871,7 +2872,7 @@ hr {
 .main-navigation li:hover > a,
 .main-navigation li.focus > a {
   position: relative;
-  color: #fff;
+  color: #446ACD;
 }
 .main-navigation li:hover > ul,
 .main-navigation li.focus > ul {
@@ -2887,12 +2888,12 @@ hr {
   right: 15px;
   top: 14px;
   font-size: 13px;
-  color: #fff;
+  color: #446ACD;
 }
 .main-navigation li.menu-item-has-children:hover::after,
 .main-navigation li.menu-item-has-children:focus::after {
   content: '-';
-  color: #fff;
+  color: #446ACD;
 }
 .main-navigation li.menu-item-has-children .menu-item-has-children {
   padding-right: 0;
@@ -2903,12 +2904,12 @@ hr {
   right: 20px;
   top: 8px;
   font-size: 13px;
-  color: #fff;
+  color: #446ACD;
 }
 .main-navigation li.menu-item-has-children .menu-item-has-children:hover::after,
 .main-navigation li.menu-item-has-children .menu-item-has-children:focus::after {
   content: '-';
-  color: #fff;
+  color: #446ACD;
 }
 .main-navigation a {
   display: block;
@@ -2924,7 +2925,7 @@ hr {
 .main-navigation .current-menu-item > a,
 .main-navigation .current_page_ancestor > a,
 .main-navigation .current-menu-ancestor > a {
-  color: #fff;
+  color: #446ACD;
   text-decoration: underline;
 }
 .main-navigation .menu-toggle,
@@ -2934,8 +2935,8 @@ hr {
 @media screen and (max-width: 37.5em) {
   .main-navigation .menu-toggle {
     float: right;
-    margin-top: -44px;
-    font-size: 18px;
+    margin-top: -64px;
+    font-size: 27px;
     line-height: 18px;
     padding: 12px 15px 10px;
     border: none;
@@ -2946,6 +2947,7 @@ hr {
     outline: none;
   }
   .main-navigation #primary-menu {
+    text-align: center;
     position: relative;
     z-index: 4;
     max-height: 300px;
@@ -3078,8 +3080,7 @@ hr {
   .main-navigation ul {
     display: table;
     float: none;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
   }
 }
 .main-navigation.text-black ul ul {
@@ -3257,8 +3258,8 @@ hr {
     line-height: 28px;
   }
   .site-branding .site-title.title-image img {
-    max-height: 15px;
-    margin-bottom: 5px;
+    max-height: 50px;
+    margin-bottom: 0px;
   }
 }
 .navbar-menu.nav-cta .btn {
