@@ -1377,6 +1377,7 @@ hr {
   transition: all 0.27s cubic-bezier(0.3, 0.1, 0.58, 1);
 }
 .work-grid .work-item .work-item-image {
+  padding: 2px;
   display: block;
   overflow: hidden;
 }
@@ -3296,7 +3297,6 @@ hr {
 	===========================
 */
 .header {
-  background: url(../img/header.jpg);
   width: 100%;
   min-height: 600px;
   height: auto;
@@ -3624,9 +3624,6 @@ object {
 }
 .site-footer a {
   color: #9395a5;
-}
-.site-footer a:hover {
-  color: #fff;
 }
 .site-footer .widget {
   margin-bottom: 30px;

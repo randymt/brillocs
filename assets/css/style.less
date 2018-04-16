@@ -1036,6 +1036,7 @@ hr{ border-top-color: darken(@white, 3%); }
 		}
 
 		.work-item-image{
+			padding: 2px;
 			display: block;
 			overflow: hidden;
 			&::after{
@@ -2866,7 +2867,6 @@ hr{ border-top-color: darken(@white, 3%); }
 	===========================
 */
 .header{
-	background: url(../img/header.jpg);
 	width: 100%;
 	min-height: 600px;
 	height: auto;
@@ -3140,7 +3140,7 @@ object {
 	[9. FOOTER]
 	==================
 */
-.site-footer{
+.site-footer {
 	width: 100%;
 	padding: 60px 0 80px;
 	color: lighten(@grey, 10%);
@@ -3154,10 +3154,8 @@ object {
 		color: @white;
 	}
 
-	a{
-		color: lighten(@grey, 15%);
-		&:hover{ color: @white; }
-	}
+	a{color: lighten(@grey, 15%);}
+
 	.widget{
 		margin-bottom: 30px;
 		color: lighten(@grey, 10%);
@@ -3193,7 +3191,10 @@ object {
 			}
 		}
 	}
+	
 }
+
+
 
 
 /*
@@ -3244,3 +3245,10 @@ object {
 		}
 	}
 }
+
+
+
+
+
+
+

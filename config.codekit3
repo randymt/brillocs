@@ -7,7 +7,7 @@
 		"uuidString": "0F3F2E1B-DCF2-40EA-BD9A-83E539075856"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
@@ -205,6 +205,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/css\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/assets\/css\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -353,6 +363,39 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/cleaning-office-1.jpg": {
+		"ft": 16384,
+		"iS": 463638,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/cleaning-office-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/cleaning-office-2.jpg": {
+		"ft": 16384,
+		"iS": 402400,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/cleaning-office-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/door-placeholder.jpg": {
+		"ft": 16384,
+		"iS": 93819,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/door-placeholder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/footer_brillo_logo.png": {
 		"ft": 32768,
 		"iS": 13362,
@@ -367,6 +410,7 @@
 	"\/assets\/img\/header.jpg": {
 		"ft": 16384,
 		"iS": 167805,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/header.jpg",
 		"oF": 0,
@@ -374,9 +418,21 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/img\/img-header.jpg": {
+		"ft": 16384,
+		"iS": 169805,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/img-header.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/img-imageblock_01.jpg": {
 		"ft": 16384,
 		"iS": 122956,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/img-imageblock_01.jpg",
 		"oF": 0,
@@ -387,6 +443,7 @@
 	"\/assets\/img\/img-imageblock_02.jpg": {
 		"ft": 16384,
 		"iS": 242623,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/img-imageblock_02.jpg",
 		"oF": 0,
@@ -397,6 +454,7 @@
 	"\/assets\/img\/img-imageblock_03.jpg": {
 		"ft": 16384,
 		"iS": 180496,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/img-imageblock_03.jpg",
 		"oF": 0,
@@ -407,6 +465,7 @@
 	"\/assets\/img\/img-owner-monica.jpg": {
 		"ft": 16384,
 		"iS": 6617,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/img-owner-monica.jpg",
 		"oF": 0,
@@ -417,8 +476,31 @@
 	"\/assets\/img\/img-owner-phillip.jpg": {
 		"ft": 16384,
 		"iS": 6075,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/img-owner-phillip.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/previous-work-carpentry-backing-full.jpg": {
+		"ft": 16384,
+		"iS": 183877,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/previous-work-carpentry-backing-full.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/previous-work-carpentry-backing-thumb.jpg": {
+		"ft": 16384,
+		"iS": 121622,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/previous-work-carpentry-backing-thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -427,6 +509,7 @@
 	"\/assets\/img\/previous-work-carpentry-railing-full.jpg": {
 		"ft": 16384,
 		"iS": 190462,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/previous-work-carpentry-railing-full.jpg",
 		"oF": 0,
@@ -437,6 +520,7 @@
 	"\/assets\/img\/previous-work-carpentry-railing-thumb.jpg": {
 		"ft": 16384,
 		"iS": 61013,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/previous-work-carpentry-railing-thumb.jpg",
 		"oF": 0,
@@ -447,6 +531,7 @@
 	"\/assets\/img\/previous-work-fireproofing-monokote-full.jpg": {
 		"ft": 16384,
 		"iS": 213489,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/previous-work-fireproofing-monokote-full.jpg",
 		"oF": 0,
@@ -457,6 +542,7 @@
 	"\/assets\/img\/previous-work-fireproofing-monokote-thumb.jpg": {
 		"ft": 16384,
 		"iS": 261346,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/previous-work-fireproofing-monokote-thumb.jpg",
 		"oF": 0,
@@ -464,9 +550,21 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/img\/s-cleaning.jpg": {
+		"ft": 16384,
+		"iS": 155807,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/assets\/img\/s-cleaning.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/service-carpentry-collage.jpg": {
 		"ft": 16384,
 		"iS": 188198,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/service-carpentry-collage.jpg",
 		"oF": 0,
@@ -477,6 +575,7 @@
 	"\/assets\/img\/service-carpentry.jpg": {
 		"ft": 16384,
 		"iS": 79748,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/service-carpentry.jpg",
 		"oF": 0,
@@ -487,18 +586,9 @@
 	"\/assets\/img\/service-cleaning-collage.jpg": {
 		"ft": 16384,
 		"iS": 218868,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/service-cleaning-collage.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/assets\/img\/service-cleaning.jpg": {
-		"ft": 16384,
-		"iS": 162404,
-		"oA": 0,
-		"oAP": "\/assets\/img\/service-cleaning.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -507,6 +597,7 @@
 	"\/assets\/img\/service-concrete-collage.jpg": {
 		"ft": 16384,
 		"iS": 222946,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/service-concrete-collage.jpg",
 		"oF": 0,
@@ -517,6 +608,7 @@
 	"\/assets\/img\/service-concrete.jpg": {
 		"ft": 16384,
 		"iS": 88337,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/assets\/img\/service-concrete.jpg",
 		"oF": 0,
@@ -684,13 +776,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/code from old.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/code from old.html",
-		"oF": 0
-		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -705,9 +790,10 @@
 	},
 "projectAttributes": {
 	"creationDate": 536227020,
-	"displayValue": "brillo",
+	"displayValue": "brillocs",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-ceiling"
+	"iconImageName": "meme-ceiling",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2510,6 +2596,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
