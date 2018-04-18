@@ -49,6 +49,7 @@
 	[8.1. EMBED]
 	[9. FOOTER]
 	[10. COPYRIGHT]
+	[11. CONTACT AREA]
 */
 /*
 	===========================
@@ -3609,6 +3610,9 @@ object {
 	[9. FOOTER]
 	==================
 */
+.footer-logo {
+  margin-top: 18px;
+}
 .site-footer {
   width: 100%;
   padding: 60px 0 80px;
@@ -3710,5 +3714,29 @@ object {
   .copyright .link-to-top {
     margin-top: 20px;
   }
+}
+/*
+	==================
+	[11. CONTACT AREA]
+	==================
+*/
+.contact-area {
+  text-align: center;
+}
+.contact-area-title {
+  display: block;
+  text-align: center;
+  padding-left: 2px;
+  border-bottom: solid 1px;
+  line-height: 61px;
+}
+.contact-area-btn {
+  line-height: 30px;
+  border-radius: 4px;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  width: 100%;
+  border: solid 1px #232427;
+  margin-top: 44px;
 }
 /*# sourceMappingURL=style.css.map */
